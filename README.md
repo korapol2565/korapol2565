@@ -4,6 +4,17 @@
   <p>🚀 ยินดีต้อนรับสู่โปรไฟล์ GitHub ของผม! ชอบการเรียนรู้เทคโนโลยีใหม่ๆ และการสร้างสรรค์โปรเจกต์เจ๋งๆ</p>
 </div>
 
+</div>
+
+---
+
+📌 About Me
+<p>🎓 Studying Applied Computer Science and Multimedia at King Mongkut's University of Technology Thonburi (KMUTT)</p>  
+<p>📚 public relations Team at Google Developer Groups on Campus KMUTT (GDGoC KMUTT)</p>
+<p>🌱 Currently focusing on React & JavaScript Basic, IoT Development, and Software Engineering</p>
+<p>🌍 Based in Bangkok, Thailand</p>
+
+
 <!-- เพิ่มส่วนของ GDG on Campus KMUTT ตรงนี้ -->
  <p align="center">
     <img src="https://img.shields.io/badge/GDG%20on%20Campus-KMUTT-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG on Campus KMUTT" />
@@ -41,11 +52,11 @@
   <a href="https://linkedin.com/in/ชื่อ-linkedin-ของคุณ" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/Korapol kittipitak" target="_blank">
+  <a href="https://www.facebook.com/korapol.kittipitak.7?locale=th_TH="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:อีเมลของคุณ@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="instagram:https://www.instagram.com/a_aomjim/?__pwa=1">
+    <img src="https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
 
