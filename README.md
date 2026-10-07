@@ -4,6 +4,13 @@
   <p>🚀 ยินดีต้อนรับสู่โปรไฟล์ GitHub ของผม! ชอบการเรียนรู้เทคโนโลยีใหม่ๆ และการสร้างสรรค์โปรเจกต์เจ๋งๆ</p>
 </div>
 
+<!-- เพิ่มส่วนของ GDG on Campus KMUTT ตรงนี้ -->
+ <p align="center">
+    <img src="https://img.shields.io/badge/GDG%20on%20Campus-KMUTT-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDG on Campus KMUTT" />
+    <img src="https://img.shields.io/badge/Role-Public%20Relations-EA4335?style=for-the-badge" alt="Public Relations" />
+  </p>
+</div>
+
 <hr />
 
 <h3>🛠️ ทักษะและเครื่องมือ (Tech Stack)</h3>
@@ -34,7 +41,7 @@
   <a href="https://linkedin.com/in/ชื่อ-linkedin-ของคุณ" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/ชื่อเฟสของคุณ" target="_blank">
+  <a href="https://facebook.com/Korapol kittipitak" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:อีเมลของคุณ@gmail.com">
