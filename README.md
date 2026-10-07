@@ -11,7 +11,7 @@
 📌 About Me
 <p>🎓 Studying Applied Computer Science and Multimedia at King Mongkut's University of Technology Thonburi (KMUTT)</p>  
 <p>📚 public relations Team at Google Developer Groups on Campus KMUTT (GDGoC KMUTT)</p>
-<p>🌱 Currently focusing on React & JavaScript Basic, IoT Development, and Software Engineering</p>
+<p>🌱 Currently focusing on React & JavaScript Basic, Database, and normal Software Engineering</p>
 <p>🌍 Based in Bangkok, Thailand</p>
 
 
