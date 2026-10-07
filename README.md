@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 สวัสดีครับ, ผม <span style="color: #007acc;">KORAPOL KITTIPITAK</span></h1>
+  <h3>💻 Frontend developer  / Student / Tech Enthusiast</h3>
+  <p>🚀 ยินดีต้อนรับสู่โปรไฟล์ GitHub ของผม! ชอบการเรียนรู้เทคโนโลยีใหม่ๆ และการสร้างสรรค์โปรเจกต์เจ๋งๆ</p>
+</div>
 
-<!--
-**korapol2565/korapol2565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+<h3>🛠️ ทักษะและเครื่องมือ (Tech Stack)</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mysql,git,github,vscode" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<h3>📊 สถิติบน GitHub (GitHub Stats)</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=korapol2565&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korapol2565&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=korapol2565&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br />
+
+<h3>📫 ช่องทางการติดต่อ (Connect with me)</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/ชื่อ-linkedin-ของคุณ" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/ชื่อเฟสของคุณ" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:อีเมลของคุณ@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ชื่อ_GitHub_ของคุณ&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
