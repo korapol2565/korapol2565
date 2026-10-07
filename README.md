@@ -49,13 +49,13 @@
 
 <h3>📫 ช่องทางการติดต่อ (Connect with me)</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ชื่อ-linkedin-ของคุณ" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/korapol.kittipitak.7?locale=th_TH="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="instagram:https://www.instagram.com/a_aomjim/?__pwa=1">
+  <a href="https://www.instagram.com/a_aomjim/?__pwa=1">
     <img src="https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
