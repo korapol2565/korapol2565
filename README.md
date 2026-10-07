@@ -61,5 +61,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ชื่อ_GitHub_ของคุณ&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=korapol2565&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
